@@ -1,7 +1,16 @@
-Bridge Runner
+BRIDGE RUNNER
 
+Current Patch
+0.1.0
+>
+>
+Latest updates
+> Skins added to Barriers + Player
+> Background added
+> Road added (doesn't yet scroll)
+>
 Planned Development 
-
+>
 0.1.0
 >Basic mechanics in working order + addition of progressive barriers (difficulty)
 
@@ -19,11 +28,4 @@ Planned Development
 Time trial level, multiverse (additional level progress gained throuhg destorying enemy army)
 >
 >
--Current Patch-
-0.1.0
->
->
-Latest updates
-> Skins added to Barriers + Player
-> Background added
-> Road added (doesn't yet scroll)
+
