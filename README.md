@@ -8,6 +8,8 @@ Latest updates
 > Skins added to Barriers + Player
 > Background added
 > Road added (doesn't yet scroll)
+> Attempted barrier/obstacle fixes
+> Implemented start and game over screen
 >
 Planned Development 
 >
